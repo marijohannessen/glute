@@ -1,0 +1,21 @@
+.workout-item {
+  display: flex;
+  flex-direction: column;
+  padding: .5rem 1rem;
+}
+
+.workout-item__title {
+  font-family: 'Montserrat';
+  font-weight: 600;
+  margin-bottom: .5rem;
+}
+
+.workout-item__gif {
+  width: 100%;
+  margin-top: 1rem;
+}
+
+.workout-item__caption {
+  font-family: 'Roboto';
+  font-weight: 400;
+}
